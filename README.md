@@ -1,3 +1,3 @@
 # papadevgeek
 
-Sources for podcast and stuff aroud Papa Dev Geek 
+Sources for podcast and stuff around Papa Dev Geek 
