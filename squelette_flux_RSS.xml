@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="https://search.yahoo.com/mrss/"
+	 xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:dcterms="https://purl.org/dc/terms/"
+	 xmlns:spotify="https://www.spotify.com/ns/rss"
+	 xmlns:psc="https://podlove.org/simple-chapters/"
+	 version="2.0">
+
+	<channel>
+		<title>PDG - Papa Dev Geek</title>
+		<link>http://www.example.com</link>
+		<description>Podcast de papa dev geek</description>
+		<language>fr</language>
+		<itunes:author>PDG</itunes:author>
+		<itunes:image href="https://example.com/sbig-logo.jpg"/>
+		<itunes:explicit>clean</itunes:explicit> <!-- clean/yes -->
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+			<itunes:category text="Fashion & Beauty" />
+			<itunes:category text="Food" />
+		</itunes:category>
+		<!-- itune:complete = yes/no | A yes indicates a podcast that has ended and no further episodes will be published-->
+		<itunes:complete>yes</itunes:complete>
+		<!-- itune:type = episodic/serial | non-chronological/chronological-->
+		<itunes:type>serial</itunes:type> 
+		<!-- Episode allowed only in the USA and Sweden.-->
+		<media:restriction type="country" relationship="allow">us se</media:restriction>
+		<!-- Number of concurrent episodes (items) to display starting from the latest release-->
+		<spotify:limit recentCount="1" />
+		<!-- Sets the podcast to be most relevant in Norway, but also having s²ome value in Denmark and Sweden. -->
+		<spotify:countryOfOrigin>no dk se</spotify:countryOfOrigin>
+		
+		<item>
+			<!-- isPermaLink = true indicates that the GUID is a full URL -->
+			<guid isPermaLink="false">e99f7614-d82f-42bc-9b23-1f251592f472</guid>
+			<title>#1 - PDG - La vie à la maison</title> <!-- OR media:title-->
+			<!-- url / type MIME Type / lenght in bytes -->
+			<enclosure url="https://www.example.com/pdg/podcast/1/PDG-1.mp3" type="audio/mpeg" length="21830720"/>
+			<!--OR-->
+			<media:content type="audio/mpeg" url="https://example.com/sbigs02e09.mp3" />
+			<!-- Publication date to order episodes-->
+			<pubDate>Thu, 20 Nov 2014 10:30:00 +0000<!-- OR Thu, 20 Nov 2014 10:30:00 GMT --></pubDate>
+			<description> <!-- OR media:description-->
+				Napster was the name given to two music-focused
+				online services. It was originally founded as a pioneering peer-to-peer (P2P) file
+				sharing Internet service that emphasized sharing audio files, typically music, encoded
+				in MP3 format.
+			</description>
+			<!-- Episode allowed only in the USA and Sweden.-->
+			<media:restriction type="country" relationship="allow">us se</media:restriction>
+			<!-- format : HH:MM:SS, H:MM:SS, MM:SS, M:SS, or SS -->
+			<itunes:duration>2700</itunes:duration>
+			<!-- Order episodes, if pubDate not used -->
+			<itunes:order>9</itunes:order>
+			<!-- clean or yes -->
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://example.com/sbig/screenshots/s02e09.png" />
+			<!-- time during podcast is visible-->
+			<dcterms:valid/>start=2015-06-22T09:00+01:00;end=2015-07-02T09:00+01:00;</dcterms:valid>
+			<psc:chapters/>
+				<!--
+				start : A Normal Play Time (NMP) timestamp - a single point in time relative to the beginning of the episode audio file
+				title : The name of the episode segment
+				href : Web address of associated page referred to in the segment
+				image : Web address of associated image referred to in the segment.
+				-->
+				<psc:chapter start="0" title="Opening credits" />
+				<psc:chapter start="0:35" title="Today's CNN headlines" href="https://edition.cnn.com/" image="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png"/>
+				<psc:chapter start="8:36" title="End credits" />
+			</psc:chapters>
+			<itunes:keywords>keyword,separated</itunes:keywords>
+			<itunes:episodeType>trailer</itunes:episodeType>
+			<content:encoded><![CDATA[<p>Some great <em>description</em> of this episode!</p>]]></content:encoded>
+		</item>
+	</channel>
+</rss>
