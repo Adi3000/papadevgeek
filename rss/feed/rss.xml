@@ -11,12 +11,12 @@
 		<link>https://fafnir.adi3000.com/r/papadevgeek</link>
 		<description>Podcast de papa dev geek</description>
 		<language>fr</language>
-		<itunes:author>Maaxow & adi3000</itunes:author>
+		<itunes:author>Maaxow &amp; adi3000</itunes:author>
 		<itunes:image href="https://example.com/sbig-logo.jpg"/>
 		<itunes:explicit>clean</itunes:explicit> <!-- clean/yes -->
 		<itunes:category text="Arts">
 			<itunes:category text="Design" />
-			<itunes:category text="Fashion & Beauty" />
+			<itunes:category text="Fashion &amp; Beauty" />
 			<itunes:category text="Food" />
 		</itunes:category>
 		<!-- itune:complete = yes/no | A yes indicates a podcast that has ended and no further episodes will be published-->
