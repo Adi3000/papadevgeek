@@ -35,7 +35,7 @@
 			<guid isPermaLink="false">e99f7614-d82f-42bc-9b23-1f251592f472</guid>
 			<title>#1 - PDG - La vie à la maison</title> <!-- OR media:title-->
 			<!-- url / type MIME Type / lenght in bytes -->
-			<enclosure url="https://fafnir.adi3000.com/public/pdg/podcast/PDG-1.mp3" type="audio/mpeg" length="21830720"/>
+			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-1.mp3" type="audio/mpeg" length="21830720"/>
 			<!--OR-->
 			<media:content type="audio/mpeg" url="https://fafnir.adi3000.com/public/pdg/podcast/PDG-1.mp3" />
 			<!-- Publication date to order episodes-->
