@@ -65,7 +65,7 @@
 			
 			<!-- TODO: create chapters from markers 
 			<psc:chapters>
-				<! --
+				<!- -
 				start : A Normal Play Time (NMP) timestamp - a single point in time relative to the beginning of the episode audio file
 				title : The name of the episode segment
 				href : Web address of associated page referred to in the segment
