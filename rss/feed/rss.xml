@@ -70,7 +70,7 @@
 			</psc:chapters>
 			<itunes:keywords>keyword,separated</itunes:keywords>
 			<itunes:episodeType>Podcast</itunes:episodeType>
-			<content:encoded><![CDATA[<p>Some great <em>description</em> of this episode!</p>]]></content:encoded>
+			<!-- missing xmlns:content <content:encoded><![CDATA[<p>Some great <em>description</em> of this episode!</p>]]></content:encoded>-->
 		</item>
 	</channel>
 </rss>
