@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="https://search.yahoo.com/mrss/"
-	 xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	 xmlns:dcterms="https://purl.org/dc/terms/"
 	 xmlns:spotify="https://www.spotify.com/ns/rss"
 	 xmlns:psc="https://podlove.org/simple-chapters/"
+     	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	 version="2.0">
 
 	<channel>
@@ -11,6 +12,7 @@
 		<itunes:title>PDG</itunes:title>
 		<itunes:subtitle>Papa Dev Geek</itunes:subtitle>
 		<link>https://fafnir.adi3000.com</link>
+		<copyright>&#169; 2021 PDG - Papa Dev Geek</copyright>
 		<itunes:summary>Podcast de papa dev geek</itunes:summary>
 		<description>Podcast de papa dev geek</description>
 		<language>fr</language>
