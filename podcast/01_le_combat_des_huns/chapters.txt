@@ -1,0 +1,8 @@
+0.000000	158.938005	Présentation PDG
+158.938005	1336.237868	La vision du Geek
+1336.237868	2558.939025	Les bacs à sable
+2558.939025	3387.499864	La crise de la PS5
+3387.499864	4467.193878	L'algo-mécanique
+4467.193878	4952.822812	Tips & Kids : Kingdom Hearts 3
+4952.822812	6042.666531	Les bots de la maison
+6042.666531	6165.580091	Conclusion
