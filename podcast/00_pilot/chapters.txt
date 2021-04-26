@@ -1,3 +1,11 @@
-## THIS MAY NOT BE A COMMENT, DELETE THIS
-# On devrait ajouter ici une piste de marqueurs
-# de chapitres pour les CREDITS.md et pour les sujets
+0.000000	408.793522	Présentation PDG
+408.793522	1460.213386	Le bricolage des soeurs Olsen
+1460.213386	1662.159461	Le Héron
+1662.159461	3210.831116	L'évasion en VR
+3210.831116	3604.047108	Kiri et le plagiat
+3604.047108	4549.674186	Tips & Kids : Gigantosaurus
+4549.674186	4734.793693	Le binoral
+4734.793693	6760.808871	Les environements Upside Down
+6760.808871	7055.312984	Et la bouffe
+7055.312984	7953.021116	Gosu et Guidewire
+7953.021116	8362.609982	Conclusion
