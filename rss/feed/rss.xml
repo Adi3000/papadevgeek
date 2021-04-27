@@ -10,17 +10,17 @@
 	<channel>
 		<title>PDG</title>
 		<itunes:title>PDG</itunes:title>
-		<itunes:subtitle>Papa Dev Geek</itunes:subtitle>
+		<itunes:subtitle>Produced by Maaxow &amp; Adi3000</itunes:subtitle>
 		<link>https://fafnir.adi3000.com</link>
 		<copyright>&#169; 2021 PDG - Papa Dev Geek</copyright>
-		<itunes:summary>Podcast de papa dev geek</itunes:summary>
-		<description>Podcast de papa dev geek</description>
+		<itunes:summary>Podcast de Papa dev Geek - Produced by Maaxow &amp; Adi3000</itunes:summary>
+		<description>Podcast de Papa Dev Geek - Produced by Maaxow &amp; Adi3000</description>
 		<language>fr</language>
 		<itunes:owner>
 			<itunes:name>PDG</itunes:name>
 			<itunes:email>papadevgeek.podcast@gmail.com</itunes:email>
 		</itunes:owner>
-		<itunes:author>Maaxow &amp; Adi3000</itunes:author>
+		<itunes:author>Papa Dev Geek</itunes:author>
 		<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png"/>
 		<itunes:explicit>clean</itunes:explicit> <!-- clean/yes -->
 		<itunes:category text="News">
