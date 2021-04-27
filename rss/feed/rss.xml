@@ -21,7 +21,7 @@
 			<itunes:email>papadevgeek.podcast@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:author>Maaxow &amp; Adi3000</itunes:author>
-		<itunes:image href="https://example.com/sbig-logo.jpg"/>
+		<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png"/>
 		<itunes:explicit>clean</itunes:explicit> <!-- clean/yes -->
 		<itunes:category text="News">
 			<itunes:category text="Tech News" />
@@ -57,7 +57,7 @@
 			<itunes:category text="Education for Kids" />
 			<itunes:category text="Parenting" />
 			<itunes:category text="Pets &amp; Animals" />
-		</itunes:category>		
+		</itunes:category>
 		<itunes:category text="Science">
 			<itunes:category text="Life Sciences" />
 			<itunes:category text="Natural Sciences" />
@@ -79,7 +79,7 @@
 			<itunes:category text="" />
 		</itunes:category>
 		<itunes:complete>no</itunes:complete>
-		<itunes:type>serial</itunes:type> 
+		<itunes:type>serial</itunes:type>
 		<spotify:countryOfOrigin>fr be ca</spotify:countryOfOrigin>
 		<item>
 			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
@@ -107,7 +107,7 @@
 			</itunes:summary>
 			<itunes:duration>02:19:59</itunes:duration>
 			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://example.com/sbig/screenshots/s02e09.png" />
+			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
 			<itunes:keywords>Bricolage; Papa; VR; Jeux videos pour enfants; développement; Java; Guidewire</itunes:keywords>
 			<itunes:episodeType>Podcast</itunes:episodeType>
 			<itunes:episode>0</itunes:episode>
