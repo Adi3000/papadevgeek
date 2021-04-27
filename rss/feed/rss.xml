@@ -89,22 +89,60 @@
 			<itunes:subtitle>Papa Dev Geek - un épisode pilote</itunes:subtitle>
 			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-0.mp3" type="audio/mpeg" length="335978496"/>
 			<pubDate>Mon, 19 Apr 2021 11:00:00 GMT</pubDate>
-			<description>
-				Episode #0 - Pilote PDG.
-				Présentation
-				Le bricolage pour les soeurs Olsen
-				Le VR
-				Les jeux pour enfants (Gigano)
-				Nouveau poste, nouvelle orga, environnement technique spécifique assurance
-			</description>
-			<itunes:summary>
-				Episode #0 - Pilote PDG.
-				Présentation
-				Le bricolage pour les soeurs Olsen
-				Le VR
-				Les jeux pour enfants (Gigano)
-				Nouveau poste, nouvelle orga, environnement technique spécifique assurance
-			</itunes:summary>
+			<description><![CDATA[
+				Episode #0 - Pilote PDG.<br />
+				Présentation<br />
+				(00:06:48) - Le bricolage pour les soeurs Olsen<br />
+				(00:24:20) - Le Héron<br />
+				(00:27:42) - L'évasion en VR<br />
+				(00:53:30) - Kiri et le plagiat<br />
+				(01:00:04) - Tips & Kids : Gigantosaurus<br />
+				(01:15:49) - Le binoral<br />
+				(01:18:54) - Les environements Upside Down<br />
+				(01:52:40) - Et la bouffe<br />
+ 			        (01:57:35) - Gosu et Guidewire<br />
+				(02:12:33) - Conclusion<br />
+
+                                Playlist :
+				* Move your Feet (Piano version by Will McMillan) : https://www.instagram.com/willmcmillan/<br />
+				* Move Your Feet/D.A.N.C.E./Its A Sunshine Day - Trolls<br />
+				* Full House Opening - Everywhere You Look - Jesse Frederick<br />
+				* Santa Maria - Gotan Project<br />
+				* La maison monde - Aldebert<br />
+				* I Wanna Be Like You - JUNGLE BOOK (Disney Jazz cover) - Jonathan Young : https://www.youtube.com/watch?v=nA06XDZW1hI<br />
+				* Jungle - Gigantosaurus The Game OST - Adrian Berenguer<br />
+				* Imagine Dragons - Believer (8D AUDIO) : https://www.youtube.com/watch?v=CepeycyGhwE<br />
+				* Diana Ross - Upside Down (Carl Rag 2019 Live Remix)<br />
+				* Megalovania - Undertale - Toby Fox<br />
+				* Ooh la la - The Wiseguys<br />
+			]]></description>
+			<itunes:summary><![CDATA[
+				Episode #0 - Pilote PDG.<br />
+				Présentation<br />
+				(00:06:48) - Le bricolage pour les soeurs Olsen<br />
+				(00:24:20) - Le Héron<br />
+				(00:27:42) - L'évasion en VR<br />
+				(00:53:30) - Kiri et le plagiat<br />
+				(01:00:04) - Tips & Kids : Gigantosaurus<br />
+				(01:15:49) - Le binoral<br />
+				(01:18:54) - Les environements Upside Down<br />
+				(01:52:40) - Et la bouffe<br />
+ 			        (01:57:35) - Gosu et Guidewire<br />
+				(02:12:33) - Conclusion<br />
+
+                                Playlist :
+				* Move your Feet (Piano version by Will McMillan) : https://www.instagram.com/willmcmillan/<br />
+				* Move Your Feet/D.A.N.C.E./Its A Sunshine Day - Trolls<br />
+				* Full House Opening - Everywhere You Look - Jesse Frederick<br />
+				* Santa Maria - Gotan Project<br />
+				* La maison monde - Aldebert<br />
+				* I Wanna Be Like You - JUNGLE BOOK (Disney Jazz cover) - Jonathan Young : https://www.youtube.com/watch?v=nA06XDZW1hI<br />
+				* Jungle - Gigantosaurus The Game OST - Adrian Berenguer<br />
+				* Imagine Dragons - Believer (8D AUDIO) : https://www.youtube.com/watch?v=CepeycyGhwE<br />
+				* Diana Ross - Upside Down (Carl Rag 2019 Live Remix)<br />
+				* Megalovania - Undertale - Toby Fox<br />
+				* Ooh la la - The Wiseguys<br />
+			]]></itunes:summary>
 			<itunes:duration>02:19:59</itunes:duration>
 			<itunes:explicit>clean</itunes:explicit>
 			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
