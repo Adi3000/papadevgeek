@@ -105,8 +105,8 @@ Présentation :
 <li>(01:58:11) - Gosu et Guidewire</li>
 <li>(02:13:09) - Conclusion</li>
 </ul>
-                                
-Playlist 
+
+Playlist
 <ul>
 <li>Move your Feet (Piano version by Will McMillan) : https://linktr.ee/Willmcmillan</li>
 <li>Move Your Feet/D.A.N.C.E./Its A Sunshine Day - Trolls</li>
@@ -137,8 +137,8 @@ Présentation :
 <li>(01:58:11) - Gosu et Guidewire</li>
 <li>(02:13:09) - Conclusion</li>
 </ul>
-                                
-Playlist 
+
+Playlist
 <ul>
 <li>Move your Feet (Piano version by Will McMillan) : https://linktr.ee/Willmcmillan</li>
 <li>Move Your Feet/D.A.N.C.E./Its A Sunshine Day - Trolls</li>
@@ -159,6 +159,74 @@ Playlist
 			<itunes:keywords>Bricolage; Papa; VR; Jeux videos pour enfants; développement; Java; Guidewire</itunes:keywords>
 			<itunes:episodeType>Podcast</itunes:episodeType>
 			<itunes:episode>0</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
+			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-01.mp3</guid>
+			<title>PDG #1 - Le combat des Huns</title>
+			<itunes:title>#PDG #1 - Le combat des Huns</itunes:title>
+			<itunes:subtitle>Papa Dev Geek - Le tout premier épisode</itunes:subtitle>
+			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-01.mp3" type="audio/mpeg" length="246626380"/>
+			<pubDate>Fri, 7 May 2021 18:00:00 GMT</pubDate>
+			<description><![CDATA[
+Episode #1 - Le combat des Huns.
+
+Présentation :
+<ul>
+<li>(00:00:Ø0) - Présentation PDG</li>
+<li>(00:00:00) - La vision du Geek</li>
+<li>(00:00:00) - Les bacs à sable</li>
+<li>(00:00:00) - La crise de la PS5</li>
+<li>(00:00:00) - l'algo-mécanique</li>
+<li>(00:00:00) - Tips & Kids : Kingdom Heart 3</li>
+<li>(00:00:00) - Les bots de la maison</li>
+<li>(00:00:00) - Conclusion</li>
+</ul>
+
+Playlist :
+<ul>
+	<li>Heartaches - The Marcels</li>
+	<li>Level Up - SEB</li>
+	<li>Terraria - Overworld Day [Remix] - Qumu : https://www.youtube.com/watch?v=rHxHqhTcAys</li>
+	<li>Money - Pink Floyd</li>
+	<li>Do You Love Me - The Contours</li>
+	<li>Face My Fears (Japanese) - Utada Hikaru & Skrillex</li>
+	<li>Kawaii - Missill</li>
+</ul>
+			]]></description>
+			<itunes:summary><![CDATA[
+				Episode #1 - Le combat des Huns.
+
+				Présentation :
+				<ul>
+				<li>(00:00:Ø0) - Présentation PDG</li>
+				<li>(00:00:00) - La vision du Geek</li>
+				<li>(00:00:00) - Les bacs à sable</li>
+				<li>(00:00:00) - La crise de la PS5</li>
+				<li>(00:00:00) - l'algo-mécanique</li>
+				<li>(00:00:00) - Tips & Kids : Kingdom Heart 3</li>
+				<li>(00:00:00) - Les bots de la maison</li>
+				<li>(00:00:00) - Conclusion</li>
+				</ul>
+
+				Playlist :
+				<ul>
+				<li>Heartaches - The Marcels</li>
+				<li>Level Up - SEB</li>
+				<li>Terraria - Overworld Day [Remix] - Qumu : https://www.youtube.com/watch?v=rHxHqhTcAys</li>
+				<li>Money - Pink Floyd</li>
+				<li>Do You Love Me - The Contours</li>
+				<li>Face My Fears (Japanese) - Utada Hikaru & Skrillex</li>
+				<li>Kawaii - Missill</li>
+				</ul>
+			]]></itunes:summary>
+			<itunes:duration>01:42:46</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:keywords>Geek; Papa; Sandbox; Jeux videos pour enfants; développement</itunes:keywords>
+			<itunes:episodeType>Podcast</itunes:episodeType>
+			<itunes:episode>1</itunes:episode>
 			<itunes:season>1</itunes:season>
 		</item>
 	</channel>
