@@ -89,6 +89,7 @@
 			<itunes:subtitle>Papa Dev Geek - un épisode pilote</itunes:subtitle>
 			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-0.mp3" type="audio/mpeg" length="335978496"/>
 			<pubDate>Mon, 19 Apr 2021 11:00:00 GMT</pubDate>
+			<dcterms:valid>start=2021-04-19T09:00+01:00;end=2021-05-09T12:03+01:00;</dcterms:valid>
 			<description><![CDATA[
 Episode #0 - Pilote dans l'avion.
 
@@ -168,7 +169,8 @@ Playlist
 			<itunes:title>#PDG #1 - Le combat des Huns</itunes:title>
 			<itunes:subtitle>Papa Dev Geek - Le tout premier épisode</itunes:subtitle>
 			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-01.mp3" type="audio/mpeg" length="246626380"/>
-			<pubDate>Fri, 7 May 2021 18:00:00 GMT</pubDate>
+			<pubDate>Fri, 7 May 2021 12:03:00 GMT</pubDate>
+			<dcterms:valid>start=2021-05-09T12:03+01:00;</dcterms:valid>
 			<description><![CDATA[
 Episode #1 - Le combat des Huns.
 
