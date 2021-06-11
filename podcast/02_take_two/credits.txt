@@ -1,0 +1,17 @@
+22.604511	157.423878	Little Cream Soda - The White Stripes
+1454.136417	1505.060499	Starships - Pentatonix
+3269.450794	3343.507914	Birthday Party - AJR
+4050.901474	4082.651383	Tut Tut Tut Tut - Gillian Hills
+5556.392374	5642.222946	Boys & Girls - Deluxe
+5990.219263	6109.325635	Cutting Mat #1 - Teraway Unfolded OST
+7632.515415	8061.958975	 Happy End - La Fine Equipe
+
+22.604511	157.423878	Little Cream Soda - The White Stripes
+1450.907800	1751.194036	Starships - Pentatonix
+3527.578458	4129.071224	Birthday Party - AJR
+4838.126077	5407.121406	Tut Tut Tut Tut - Gillian Hills
+6870.487925	7236.324274	Boys & Girls - Deluxe
+7580.446849	7699.553221	Cutting Mat #1 - Teraway Unfolded OST
+9227.050054	9656.493614	Happy End - La Fine Equipe
+
+
