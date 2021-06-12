@@ -171,8 +171,21 @@ Playlist
 			<itunes:episode>0</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<!-- block =>  Disable episode -->
-			<itunes:block>yes</itunes:block>
-			<googleplay:block>yes</googleplay:block>
+			<itunes:block>no</itunes:block>
+			<googleplay:block>no</googleplay:block>
+			<psc:chapters>
+				<psc:chapter time="00:00:00" title="Introduction" />
+				<psc:chapter time="00:06:48" title="Le bricolage pour les soeurs Olsen" />
+				<psc:chapter time="00:24:20" title="Le Héron" />
+				<psc:chapter time="00:27:42" title="L'évasion en VR" />
+				<psc:chapter time="00:53:30" title="Kiri et le plagiat" />
+				<psc:chapter time="01:00:39" title="Tips & Kids : Gigantosaurus" />
+				<psc:chapter time="01:16:25" title="Le binoral" />
+				<psc:chapter time="01:19:32" title="Les environements Upside Down" />
+				<psc:chapter time="01:53:17" title="Et la bouffe" />
+				<psc:chapter time="01:58:11" title="Gosu et Guidewire" />
+				<psc:chapter time="02:13:09" title="Conclusion" />
+			</psc:chapters>
 		</item>
 		<item>
 			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
@@ -191,7 +204,7 @@ Episode #1 - Le combat des Huns.
 				<li>(00:02:38) - La vision du Geek</li>
 				<li>(00:22:16) - Les bacs à sable</li>
 				<li>(00:42:38) - La crise de la PS5</li>
-				<li>(00:56:27) - l'algo-mécanique</li>
+				<li>(00:56:27) - L'algo-mécanique</li>
 				<li>(01:14:27) - Tips & Kids : Kingdom Heart 3</li>
 				<li>(01:22:32) - Les bots de la maison</li>
 				<li>(01:40:42) - Conclusion</li>
@@ -216,7 +229,7 @@ Playlist :
 				<li>(00:02:38) - La vision du Geek</li>
 				<li>(00:22:16) - Les bacs à sable</li>
 				<li>(00:42:38) - La crise de la PS5</li>
-				<li>(00:56:27) - l'algo-mécanique</li>
+				<li>(00:56:27) - L'algo-mécanique</li>
 				<li>(01:14:27) - Tips & Kids : Kingdom Heart 3</li>
 				<li>(01:22:32) - Les bots de la maison</li>
 				<li>(01:40:42) - Conclusion</li>
@@ -240,6 +253,16 @@ Playlist :
 			<itunes:episodeType>Podcast</itunes:episodeType>
 			<itunes:episode>1</itunes:episode>
 			<itunes:season>1</itunes:season>
+			<psc:chapters>
+				<psc:chapter time="00:00:00" title="Introduction" />
+				<psc:chapter time="00:02:38" title="La vision du Geek" />
+				<psc:chapter time="00:22:16" title="Les bacs à sable" />
+				<psc:chapter time="00:42:38" title="La crise de la PS5" />
+				<psc:chapter time="00:56:27" title="L'algo-mécanique" />
+				<psc:chapter time="01:14:27" title="Tips & Kids : Kingdom Heart 3 />
+				<psc:chapter time="01:22:32" title="Les bots de la maison" />
+				<psc:chapter time="01:40:42" title="Conclusion" />
+			</psc:chapters>
 		</item>
 	</channel>
 </rss>
