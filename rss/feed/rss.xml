@@ -34,59 +34,26 @@
 		<googleplay:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png"/>
 		<itunes:explicit>clean</itunes:explicit>
 		<googleplay:explicit>clean</googleplay:explicit>
-		<itunes:category text="News">
-			<itunes:category text="Tech News" />
-			<itunes:category text="Entertainment News" />
-		</itunes:category>
 		<itunes:category text="Leisure">
-			<itunes:category text="Hobbies" />
 			<itunes:category text="Games" />
 			<itunes:category text="Crafts" />
-			<itunes:category text="Hobbies" />
 			<itunes:category text="Home &amp; Garden" />
 			<itunes:category text="Video Games" />
 		</itunes:category>
 		<itunes:category text="Business">
 			<itunes:category text="Careers" />
 			<itunes:category text="Entrepreneurship" />
-			<itunes:category text="Management" />
-		</itunes:category>
-		<itunes:category text="Comedy">
-			<itunes:category text="Improv" />
-			<itunes:category text="Stand-Up" />
-		</itunes:category>
-		<itunes:category text="Education">
-			<itunes:category text="How To" />
-			<itunes:category text="Language Learning" />
-			<itunes:category text="Self-Improvement" />
-		</itunes:category>
-		<itunes:category text="Fiction">
-			<itunes:category text="Comedy Fiction" />
-			<itunes:category text="Science Fiction" />
 		</itunes:category>
 		<itunes:category text="Kids &amp; Family">
 			<itunes:category text="Education for Kids" />
 			<itunes:category text="Parenting" />
-			<itunes:category text="Pets &amp; Animals" />
-		</itunes:category>
-		<itunes:category text="Science">
-			<itunes:category text="Life Sciences" />
-			<itunes:category text="Natural Sciences" />
-			<itunes:category text="Social Sciences" />
 		</itunes:category>
 		<itunes:category text="Society &amp; Culture">
-			<itunes:category text="Documentary" />
 			<itunes:category text="Personal Journals" />
-			<itunes:category text="Philosophy" />
 			<itunes:category text="Places &amp; Travel" />
 			<itunes:category text="Relationships" />
 		</itunes:category>
 		<itunes:category text="Technology" />
-		<itunes:category text="TV &amp; Film">
-			<itunes:category text="Film Reviews" />
-			<itunes:category text="TV Reviews" />
-			<itunes:category text="After Shows" />
-		</itunes:category>
 		<itunes:complete>no</itunes:complete>
 		<itunes:type>serial</itunes:type>
 		<spotify:countryOfOrigin>fr be ca</spotify:countryOfOrigin>
