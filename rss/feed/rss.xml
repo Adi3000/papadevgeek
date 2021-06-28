@@ -59,7 +59,7 @@
 		<spotify:countryOfOrigin>fr be ca</spotify:countryOfOrigin>
 		<item>
 			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
-			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-0.mp3</guid>
+			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-0.mp3?v=2</guid>
 			<title>PDG #00 - Le pilote d'avion</title>
 			<itunes:title>PDG #00 - Le pilote d'avion</itunes:title>
 			<itunes:subtitle>Papa Dev Geek - un épisode pilote</itunes:subtitle>
@@ -156,7 +156,7 @@ Playlist
 		</item>
 		<item>
 			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
-			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-01.mp3</guid>
+			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-01.mp3?v=2</guid>
 			<title>PDG #01 - Le combat des Huns</title>
 			<itunes:title>PDG #01 - Le combat des Huns</itunes:title>
 			<itunes:subtitle>Papa Dev Geek - Le tout premier épisode</itunes:subtitle>
