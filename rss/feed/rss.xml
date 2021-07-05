@@ -233,11 +233,11 @@ Playlist :
 		</item>
 <item>
 			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
-			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-02.mp3</guid>
+			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-02.mp3?v=2</guid>
 			<title>PDG #02 - R2D2</title>
 			<itunes:title>PDG #02 - R2D2</itunes:title>
 			<itunes:subtitle>Papa Dev Geek - Le numero 2 mais bien le 3e</itunes:subtitle>
-			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-02.mp3" type="audio/mpeg" length="401978795"/>
+			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-02.mp3?v=2" type="audio/mpeg" length="401978795"/>
 			<pubDate>Mon, 5 July 2021 12:03:00 GMT</pubDate>
 			<dcterms:valid>start=2021-07-05T12:03+01:00;</dcterms:valid>
 			<description><![CDATA[
