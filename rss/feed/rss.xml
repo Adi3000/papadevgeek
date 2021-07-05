@@ -59,11 +59,11 @@
 		<spotify:countryOfOrigin>fr be ca</spotify:countryOfOrigin>
 		<item>
 			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
-			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-0.mp3?v=2</guid>
+			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-0.mp3</guid>
 			<title>PDG #00 - Le pilote d'avion</title>
 			<itunes:title>PDG #00 - Le pilote d'avion</itunes:title>
 			<itunes:subtitle>Papa Dev Geek - un épisode pilote</itunes:subtitle>
-			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-0.mp3?v=2" type="audio/mpeg" length="335978496"/>
+			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-0.mp3" type="audio/mpeg" length="335978496"/>
 			<pubDate>Mon, 19 Apr 2021 11:00:00 GMT</pubDate>
 			<dcterms:valid>start=2021-04-19T09:00+01:00;end=2021-05-09T12:03+01:00;</dcterms:valid>
 			<description><![CDATA[
@@ -156,11 +156,11 @@ Playlist
 		</item>
 		<item>
 			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
-			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-01.mp3?v=2</guid>
+			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-01.mp3</guid>
 			<title>PDG #01 - Le combat des Huns</title>
 			<itunes:title>PDG #01 - Le combat des Huns</itunes:title>
 			<itunes:subtitle>Papa Dev Geek - Le vrai premier épisode</itunes:subtitle>
-			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-01.mp3?v=2" type="audio/mpeg" length="246627339"/>
+			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-01.mp3" type="audio/mpeg" length="246627339"/>
 			<pubDate>Fri, 7 May 2021 12:03:00 GMT</pubDate>
 			<dcterms:valid>start=2021-05-09T12:03+01:00;</dcterms:valid>
 			<description><![CDATA[
@@ -233,11 +233,11 @@ Playlist :
 		</item>
 <item>
 			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
-			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-02.mp3?v=3</guid>
+			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-02.mp3</guid>
 			<title>PDG #02 - R2D2</title>
 			<itunes:title>PDG #02 - R2D2</itunes:title>
 			<itunes:subtitle>Papa Dev Geek - Le numero 2 mais bien le 3e</itunes:subtitle>
-			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-02.mp3?v=3" type="audio/mpeg" length="401385293"/>
+			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-02.mp3" type="audio/mpeg" length="401385293"/>
 			<pubDate>Mon, 5 July 2021 12:03:00 GMT</pubDate>
 			<dcterms:valid>start=2021-07-05T12:03+01:00;</dcterms:valid>
 			<description><![CDATA[
