@@ -244,17 +244,17 @@ Playlist :
 Episode #2 - R2D2
 				Sommaire :
 				<ul>
-<li>(00:02:30) - L'espace</li>
-<li>(00:24:30) - Elite Dangerous</li>
-<li>(00:29:06) - Les echographies</li>
-<li>(00:59:43) - Iphone ?</li>
-<li>(01:08:47) - Le jeu de la dame</li>
-<li>(01:20:57) - Les gars et le filles</li>
-<li>(01:29:54) - It takes two</li>
-<li>(02:00:31) - Tips &amp; Kids : Tearaway</li>
-<li>(02:08:03) - Twitch</li>
-<li>(02:35:51) - Conclusion</li>
-<li>(02:41:54) - Bonus</li>
+<li>(00:02:15) - L'espace</li>
+<li>(00:24:15) - Elite Dangerous</li>
+<li>(00:28:51) - Les echographies</li>
+<li>(00:59:28) - Iphone ?</li>
+<li>(01:08:32) - Le jeu de la dame</li>
+<li>(01:20:42) - Les gars et le filles</li>
+<li>(01:29:39) - It takes two</li>
+<li>(02:00:17) - Tips &amp; Kids : Tearaway</li>
+<li>(02:07:48) - Twitch</li>
+<li>(02:35:37) - Conclusion</li>
+<li>(02:41:39) - Bonus</li>
 </ul>
 Playlist :
 <ul>
@@ -271,17 +271,17 @@ Playlist :
 				Episode #2 - R2D2
 				Sommaire :
 				<ul>
-<li>(00:02:30) - L'espace</li>
-<li>(00:24:30) - Elite Dangerous</li>
-<li>(00:29:06) - Les echographies</li>
-<li>(00:59:43) - Iphone ?</li>
-<li>(01:08:47) - Le jeu de la dame</li>
-<li>(01:20:57) - Les gars et le filles</li>
-<li>(01:29:54) - It takes two</li>
-<li>(02:00:31) - Tips &amp; Kids : Tearaway</li>
-<li>(02:08:03) - Twitch</li>
-<li>(02:35:51) - Conclusion</li>
-<li>(02:41:54) - Bonus</li>
+<li>(00:02:15) - L'espace</li>
+<li>(00:24:15) - Elite Dangerous</li>
+<li>(00:28:51) - Les echographies</li>
+<li>(00:59:28) - Iphone ?</li>
+<li>(01:08:32) - Le jeu de la dame</li>
+<li>(01:20:42) - Les gars et le filles</li>
+<li>(01:29:39) - It takes two</li>
+<li>(02:00:17) - Tips &amp; Kids : Tearaway</li>
+<li>(02:07:48) - Twitch</li>
+<li>(02:35:37) - Conclusion</li>
+<li>(02:41:39) - Bonus</li>
 </ul>
 				Playlist :
 				<ul>
@@ -303,17 +303,17 @@ Playlist :
 			<itunes:season>1</itunes:season>
 			<psc:chapters>
 				<psc:chapter time="00:00:00" title="Introduction" />
-				<psc:chapter time="00:02:30" title="L'espace" />
-				<psc:chapter time="00:24:30" title="Elite Dangerous" />
-				<psc:chapter time="00:29:06" title="Les echographies" />
-				<psc:chapter time="00:59:43" title="Iphone ?" />
-				<psc:chapter time="01:08:47" title="Le jeu de la dame" />
-				<psc:chapter time="01:20:57" title="Les gars et le filles" />
-				<psc:chapter time="01:29:54" title="It takes two" />
-				<psc:chapter time="02:00:31" title="Tips &amp; Kids : Tearaway" />
-				<psc:chapter time="02:08:03" title="Twitch" />
-				<psc:chapter time="02:35:51" title="Conclusion" />
-				<psc:chapter time="02:41:54" title="Test micro" />
+				<psc:chapter time="00:02:15" title="L'espace" />
+				<psc:chapter time="00:24:15" title="Elite Dangerous" />
+				<psc:chapter time="00:28:51" title="Les echographies" />
+				<psc:chapter time="00:59:28" title="Iphone ?" />
+				<psc:chapter time="01:08:32" title="Le jeu de la dame" />
+				<psc:chapter time="01:20:42" title="Les gars et le filles" />
+				<psc:chapter time="01:29:39" title="It takes two" />
+				<psc:chapter time="02:00:17" title="Tips &amp; Kids : Tearaway" />
+				<psc:chapter time="02:07:48" title="Twitch" />
+				<psc:chapter time="02:35:37" title="Conclusion" />
+				<psc:chapter time="02:41:39" title="Test micro" />
 			</psc:chapters>
 		</item>
 	</channel>
