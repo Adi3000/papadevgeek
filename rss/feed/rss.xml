@@ -316,5 +316,87 @@ Playlist :
 				<psc:chapter time="02:41:39" title="Test micro" />
 			</psc:chapters>
 		</item>
+		<item>
+			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
+			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-03.mp3</guid>
+			<title>PDG #03 - Cheval de Troie</title>
+			<itunes:title>PDG #03 - Cheval de Troie</itunes:title>
+			<itunes:subtitle>Papa Dev Geek - Jamais deux sans trois</itunes:subtitle>
+			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-03.mp3" type="audio/mpeg" length="423459749"/>
+			<pubDate>Thu, 8 July 2021 12:03:00 GMT</pubDate>
+			<dcterms:valid>start=2021-07-08T12:03+01:00;</dcterms:valid>
+			<description><![CDATA[
+Episode #3 - Cheval de Troie
+				Sommaire :
+				<ul>
+<li>(00:02:17) - La carte aux trésors</li>
+<li>(00:19:17) - Urgences ?</li>
+<li>(00:21:27) - Les coups de gueules</li>
+<li>(00:57:05) - Les pubs 2</li>
+<li>(01:03:02) - TechLead Master</li>
+<li>(01:28:31) - Les femmes enceintes</li>
+<li>(01:36:35) - Le ménage</li>
+<li>(02:31:43) - L'anglais</li>
+<li>(02:34:28) - Tips &amp; Kids : Tearaway</li>
+<li>(02:49:31) - Conclusion</li>
+<li>(02:54:38) - Bonus</li>
+</ul>
+Playlist :
+<ul>
+				<li>Pills for your ills - Chinese Man ft. Khuli Chana</li>
+				<li>Compass - Lady Antebellum</li>
+				<li>Mix pub 1 et 3 - French Fuse</li>
+				<li>Le banquet - C2C</li>
+				<li>More - Chinese Man</li>
+				<li>Hipology - Roger-molls/li>
+</ul>
+			]]></description>
+			<itunes:summary><![CDATA[
+Episode #3 - Cheval de Troie
+				Sommaire :
+				<ul>
+<li>(00:02:17) - La carte aux trésors</li>
+<li>(00:19:17) - Urgences ?</li>
+<li>(00:21:27) - Les coups de gueules</li>
+<li>(00:57:05) - Les pubs 2</li>
+<li>(01:03:02) - TechLead Master</li>
+<li>(01:28:31) - Les femmes enceintes</li>
+<li>(01:36:35) - Le ménage</li>
+<li>(02:31:43) - L'anglais</li>
+<li>(02:34:28) - Tips &amp; Kids : Tearaway</li>
+<li>(02:49:31) - Conclusion</li>
+<li>(02:54:38) - Bonus</li>
+</ul>
+				Playlist :
+				<ul>
+				<li>Pills for your ills - Chinese Man ft. Khuli Chana</li>
+				<li>Compass - Lady Antebellum</li>
+				<li>Mix pub 1 et 3 - French Fuse</li>
+				<li>Le banquet - C2C</li>
+				<li>More - Chinese Man</li>
+				<li>Hipology - Roger-molls/li>
+				</ul>
+			]]></itunes:summary>
+			<itunes:duration>02:56:26</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:keywords>Geek; Papa; Sandbox; Jeux videos pour enfants; développement</itunes:keywords>
+			<itunes:episodeType>Podcast</itunes:episodeType>
+			<itunes:episode>3</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<psc:chapters>
+				<psc:chapter time="00:00:00" title="Introduction" />
+				<psc:chapter time="00:02:17" title="La carte aux tresors" />
+				<psc:chapter time="00:24:15" title="Urgences ?" />
+				<psc:chapter time="00:19:17" title="Les coups de gueules" />
+				<psc:chapter time="00:57:05" title="Les pubs 2" />
+				<psc:chapter time="01:03:02" title="TechLead Master" />
+				<psc:chapter time="01:36:35" title="Le menage" />
+				<psc:chapter time="02:31:43" title="L'anglais" />
+				<psc:chapter time="02:34:28" title="Tips &amp; Kids : Lunii" />
+				<psc:chapter time="02:49:31" title="Conclusion" />
+				<psc:chapter time="02:54:38" title="Bonus" />
+			</psc:chapters>
+		</item>
 	</channel>
 </rss>
