@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	version="2.0">
+
+	<channel>
+		<title>PDG</title>
+		<itunes:subtitle>Produced by Maaxow &amp; Adi3000</itunes:subtitle>
+		<link>https://fafnir.adi3000.com/r/papadevgeek</link>
+		<atom:link href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/rss.xml" rel="self" type="application/rss+xml" />
+		<copyright>&#169; 2021 PDG - Papa Dev Geek</copyright>
+		<description>Podcast de Papa Dev Geek - Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp - Plus de liens pour nous écouter : https://fafnir.adi3000.com/r/papadevgeek</description>
+		<itunes:summary>Podcast de Papa Dev Geek - Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp - Plus de liens pour nous écouter : https://fafnir.adi3000.com/r/papadevgeek</itunes:summary>
+		<language>fr</language>
+		<itunes:owner>
+			<itunes:name>PDG</itunes:name>
+			<itunes:email>papadevgeek.podcast@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:author>Papa Dev Geek</itunes:author>
+		<image>
+			<link>https://fafnir.adi3000.com/r/papadevgeek</link>
+			<title>PDG</title>
+			<url>https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png</url>
+		</image>
+		<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png"/>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:category text="Leisure">
+			<itunes:category text="Games" />
+			<itunes:category text="Crafts" />
+			<itunes:category text="Home &amp; Garden" />
+			<itunes:category text="Video Games" />
+		</itunes:category>
+		<itunes:category text="Business">
+			<itunes:category text="Careers" />
+			<itunes:category text="Entrepreneurship" />
+		</itunes:category>
+		<itunes:category text="Kids &amp; Family">
+			<itunes:category text="Education for Kids" />
+			<itunes:category text="Parenting" />
+		</itunes:category>
+		<itunes:category text="Society &amp; Culture">
+			<itunes:category text="Personal Journals" />
+			<itunes:category text="Places &amp; Travel" />
+			<itunes:category text="Relationships" />
+		</itunes:category>
+		<itunes:category text="Technology" />
+		<itunes:type>serial</itunes:type>
+		<item>
+			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
+			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-0.mp3</guid>
+			<title>PDG #00 - Le pilote d'avion</title>
+			<itunes:subtitle>Papa Dev Geek - un épisode pilote</itunes:subtitle>
+			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-0.mp3" type="audio/mpeg" length="335978496"/>
+			<pubDate>Mon, 19 Apr 2021 11:00:00 GMT</pubDate>
+			<dcterms:valid>start=2021-04-19T09:00+01:00;end=2021-05-09T12:03+01:00;</dcterms:valid>
+			<description><![CDATA[
+Episode #0 - Pilote dans l'avion. <br />
+Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp <br />
+
+Présentation :
+<ul>
+<li>(00:06:48) - Le bricolage pour les soeurs Olsen</li>
+<li>(00:24:20) - Le Héron</li>
+<li>(00:27:42) - L'évasion en VR</li>
+<li>(00:53:30) - Kiri et le plagiat</li>
+<li>(01:00:04) - Tips & Kids : Gigantosaurus</li>
+<li>(01:15:51) - Le binoral</li>
+<li>(01:18:54) - Les environements Upside Down</li>
+<li>(01:52:50) - Et la bouffe</li>
+<li>(01:57:45) - Gosu et Guidewire</li>
+<li>(02:12:33) - Conclusion</li>
+</ul>
+
+Playlist
+<ul>
+<li>Move your Feet (Piano version by Will McMillan) : https://linktr.ee/Willmcmillan</li>
+<li>Move Your Feet/D.A.N.C.E./Its A Sunshine Day - Trolls</li>
+<li>Full House Opening - Everywhere You Look - Jesse Frederick</li>
+<li>Santa Maria - Gotan Project</li>
+<li>La maison monde - Aldebert</li>
+<li>I Wanna Be Like You - JUNGLE BOOK (Disney Jazz cover) - Jonathan Young : https://www.youtube.com/watch?v=nA06XDZW1hI</li>
+<li>Jungle - Gigantosaurus The Game OST - Adrian Berenguer</li>
+<li>Imagine Dragons - Believer (8D AUDIO) : https://www.youtube.com/watch?v=CepeycyGhwE</li>
+<li>Diana Ross - Upside Down (Carl Rag 2019 Live Remix)</li>
+<li>Megalovania - Undertale - Toby Fox</li>
+<li>Ooh la la - The Wiseguys</li>
+</ul>
+			]]></description>
+			<itunes:duration>02:19:59</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:keywords>Bricolage, Papa, VR, Jeux video, développement, Java, Guidewire</itunes:keywords>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<!-- block =>  Disable episode -->
+			<itunes:block>no</itunes:block>
+		</item>
+		<item>
+			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
+			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-01.mp3</guid>
+			<title>PDG #01 - Le combat des Huns</title>
+			<itunes:subtitle>Papa Dev Geek - Le vrai premier épisode</itunes:subtitle>
+			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-01.mp3" type="audio/mpeg" length="246627339"/>
+			<pubDate>Fri, 7 May 2021 12:03:00 GMT</pubDate>
+			<dcterms:valid>start=2021-05-09T12:03+01:00;</dcterms:valid>
+			<description><![CDATA[
+Episode #1 - Le combat des Huns. <br />
+Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp <br />
+
+				Sommaire :
+				<ul>
+<li>(00:02:38) - La vision du Geek</li>
+<li>(00:22:16) - Les bacs à sable</li>
+<li>(00:42:38) - La crise de la PS5</li>
+<li>(00:56:27) - L'algo-mécanique</li>
+<li>(01:14:27) - Tips & Kids : Kingdom Heart 3</li>
+<li>(01:22:32) - Les bots de la maison</li>
+<li>(01:40:42) - Conclusion</li>
+</ul>
+
+Playlist :
+<ul>
+	<li>Heartaches - The Marcels</li>
+	<li>Level Up - SEB</li>
+	<li>Terraria - Overworld Day [Remix] - Qumu : https://www.youtube.com/watch?v=rHxHqhTcAys</li>
+	<li>Money - Pink Floyd</li>
+	<li>Do You Love Me - The Contours</li>
+	<li>Face My Fears (Japanese) - Utada Hikaru & Skrillex</li>
+	<li>Kawaii - Missill</li>
+</ul>
+			]]></description>
+			<itunes:duration>01:42:46</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:keywords>Geek, Papa, Sandbox, Jeux video, développement</itunes:keywords>
+			<itunes:episodeType>bonus</itunes:episodeType>
+			<itunes:episode>2</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
+<item>
+			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
+			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-02.mp3</guid>
+			<title>PDG #02 - R2D2</title>
+			<itunes:subtitle>Papa Dev Geek - Le numero 2 mais bien le 3e</itunes:subtitle>
+			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-02.mp3" type="audio/mpeg" length="401385293"/>
+			<pubDate>Mon, 5 Jul 2021 12:03:00 GMT</pubDate>
+			<dcterms:valid>start=2021-07-05T12:03+01:00;</dcterms:valid>
+			<description><![CDATA[
+Episode #2 - R2D2 <br />
+Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp <br />
+				Sommaire :
+				<ul>
+<li>(00:02:15) - L'espace</li>
+<li>(00:24:15) - Elite Dangerous</li>
+<li>(00:28:51) - Les echographies</li>
+<li>(00:59:28) - Iphone ?</li>
+<li>(01:08:32) - Le jeu de la dame</li>
+<li>(01:20:42) - Les gars et le filles</li>
+<li>(01:29:39) - It takes two</li>
+<li>(02:00:17) - Tips &amp; Kids : Tearaway</li>
+<li>(02:07:48) - Twitch</li>
+<li>(02:35:37) - Conclusion</li>
+<li>(02:41:39) - Bonus</li>
+</ul>
+Playlist :
+<ul>
+				<li>Little Cream Soda - The White Stripes</li>
+				<li>Starships - Pentatonix</li>
+				<li>Birthday Party - AJR</li>
+				<li>Tut Tut Tut Tut - Gillian Hills</li>
+				<li>Boys & Girls - Deluxe</li>
+				<li>Cutting Mat #1 - Teraway Unfolded OST</li>
+				<li>Happy End - La Fine Equipe</li>
+</ul>
+			]]></description>
+			<itunes:duration>02:47:14</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:keywords>Geek, Papa, Parenting, Jeux videos, développement</itunes:keywords>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>3</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
+			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-03.mp3</guid>
+			<title>PDG #03 - Cheval de Troie</title>
+			<itunes:subtitle>Papa Dev Geek - Jamais deux sans trois</itunes:subtitle>
+			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-03.mp3" type="audio/mpeg" length="423459749"/>
+			<pubDate>Thu, 8 Jul 2021 12:03:00 GMT</pubDate>
+			<dcterms:valid>start=2021-07-08T12:03+01:00;</dcterms:valid>
+			<description><![CDATA[
+Episode #3 - Cheval de Troie <br />
+Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp <br />
+				Sommaire :
+				<ul>
+<li>(00:02:17) - La carte aux trésors</li>
+<li>(00:19:17) - Urgences ?</li>
+<li>(00:21:27) - Les coups de gueules</li>
+<li>(00:57:05) - Les pubs 2</li>
+<li>(01:03:02) - TechLead Master</li>
+<li>(01:28:31) - Les femmes enceintes</li>
+<li>(01:36:35) - Le ménage</li>
+<li>(02:31:43) - L'anglais</li>
+<li>(02:34:28) - Tips &amp; Kids : Tearaway</li>
+<li>(02:49:31) - Conclusion</li>
+<li>(02:54:38) - Bonus</li>
+</ul>
+Playlist :
+<ul>
+				<li>Pills for your ills - Chinese Man ft. Khuli Chana</li>
+				<li>Compass - Lady Antebellum</li>
+				<li>Mix pub 1 et 3 - French Fuse</li>
+				<li>Le banquet - C2C</li>
+				<li>More - Chinese Man</li>
+				<li>Hipology - Roger-molls</li>
+</ul>
+			]]></description>
+			<itunes:duration>02:56:26</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:keywords>Geek, Papa, Parenting, Jeux video, Développement</itunes:keywords>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>4</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
+	</channel>
+</rss>
