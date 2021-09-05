@@ -2,7 +2,6 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:dcterms="http://purl.org/dc/terms/"
-	xmlns:spotify="http://www.spotify.com/ns/rss"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	version="2.0">
@@ -49,7 +48,7 @@
 		</itunes:category>
 		<itunes:category text="Technology" />
 		<itunes:type>serial</itunes:type>
-		<spotify:countryOfOrigin>fr be ca</spotify:countryOfOrigin>
+		<spotify:countryOfOrigin xmlns:spotify="http://www.spotify.com/ns/rss">fr be ca</spotify:countryOfOrigin>
 		<item>
 			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
 			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-0.mp3</guid>
