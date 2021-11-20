@@ -101,14 +101,15 @@ Playlist
 		<item>
 			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
 			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-01.mp3</guid>
-			<title>PDG #01 - Le combat des Huns</title>
+			<title>(Bonus - Outdoor) PDG #01 - Le combat des Huns</title>
 			<itunes:subtitle>Papa Dev Geek - Le vrai premier épisode</itunes:subtitle>
 			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-01.mp3" type="audio/mpeg" length="246627339"/>
 			<pubDate>Fri, 7 May 2021 12:03:00 GMT</pubDate>
 			<dcterms:valid>start=2021-05-09T12:03+01:00;</dcterms:valid>
 			<description><![CDATA[
-Episode #1 - Le combat des Huns. <br />
+(Hors-Serie Dehors) Episode #1 - Le combat des Huns. <br />
 Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp <br />
+Ceci est un test très ambitieux d'un podcast accompagné du vent, des oiseaux et d'un chat
 
 				Sommaire :
 				<ul>
