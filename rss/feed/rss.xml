@@ -97,19 +97,6 @@ Playlist
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>1</itunes:episode>
 			<itunes:season>1</itunes:season>
-			<psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
-				<psc:chapter time="00:00:00" title="Introduction" />
-				<psc:chapter time="00:06:48" title="Le bricolage pour les soeurs Olsen" />
-				<psc:chapter time="00:24:20" title="Le Héron" />
-				<psc:chapter time="00:27:42" title="L'évasion en VR" />
-				<psc:chapter time="00:53:30" title="Kiri et le plagiat" />
-				<psc:chapter time="01:00:04" title="Tips &amp; Kids : Gigantosaurus" />
-				<psc:chapter time="01:15:51" title="Le binoral" />
-				<psc:chapter time="01:18:54" title="Les environements Upside Down" />
-				<psc:chapter time="01:52:50" title="Et la bouffe" />
-				<psc:chapter time="01:57:45" title="Gosu et Guidewire" />
-				<psc:chapter time="02:12:33" title="Conclusion" />
-			</psc:chapters>
 		</item>
 		<item>
 			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
@@ -152,16 +139,6 @@ Playlist :
 			<itunes:episodeType>bonus</itunes:episodeType>
 			<itunes:episode>2</itunes:episode>
 			<itunes:season>1</itunes:season>
-			<psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
-				<psc:chapter time="00:00:00" title="Introduction" />
-				<psc:chapter time="00:02:38" title="La vision du Geek" />
-				<psc:chapter time="00:22:16" title="Les bacs à sable" />
-				<psc:chapter time="00:42:38" title="La crise de la PS5" />
-				<psc:chapter time="00:56:27" title="L'algo-mécanique" />
-				<psc:chapter time="01:14:27" title="Tips &amp; Kids : Kingdom Heart 3" />
-				<psc:chapter time="01:22:32" title="Les bots de la maison" />
-				<psc:chapter time="01:40:42" title="Conclusion" />
-			</psc:chapters>
 		</item>
 <item>
 			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
@@ -206,20 +183,6 @@ Playlist :
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>3</itunes:episode>
 			<itunes:season>1</itunes:season>
-			<psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
-				<psc:chapter time="00:00:00" title="Introduction" />
-				<psc:chapter time="00:02:15" title="L'espace" />
-				<psc:chapter time="00:24:15" title="Elite Dangerous" />
-				<psc:chapter time="00:28:51" title="Les echographies" />
-				<psc:chapter time="00:59:28" title="Iphone ?" />
-				<psc:chapter time="01:08:32" title="Le jeu de la dame" />
-				<psc:chapter time="01:20:42" title="Les gars et le filles" />
-				<psc:chapter time="01:29:39" title="It takes two" />
-				<psc:chapter time="02:00:17" title="Tips &amp; Kids : Tearaway" />
-				<psc:chapter time="02:07:48" title="Twitch" />
-				<psc:chapter time="02:35:37" title="Conclusion" />
-				<psc:chapter time="02:41:39" title="Test micro" />
-			</psc:chapters>
 		</item>
 		<item>
 			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
@@ -263,19 +226,6 @@ Playlist :
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>4</itunes:episode>
 			<itunes:season>1</itunes:season>
-			<psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
-				<psc:chapter time="00:00:00" title="Introduction" />
-				<psc:chapter time="00:02:17" title="La carte aux tresors" />
-				<psc:chapter time="00:24:15" title="Urgences ?" />
-				<psc:chapter time="00:19:17" title="Les coups de gueules" />
-				<psc:chapter time="00:57:05" title="Les pubs 2" />
-				<psc:chapter time="01:03:02" title="TechLead Master" />
-				<psc:chapter time="01:36:35" title="Le menage" />
-				<psc:chapter time="02:31:43" title="L'anglais" />
-				<psc:chapter time="02:34:28" title="Tips &amp; Kids : Lunii" />
-				<psc:chapter time="02:49:31" title="Conclusion" />
-				<psc:chapter time="02:54:38" title="Bonus" />
-			</psc:chapters>
 		</item>
 	</channel>
 </rss>
