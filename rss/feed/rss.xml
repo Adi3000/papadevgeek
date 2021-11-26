@@ -228,5 +228,47 @@ Playlist :
 			<itunes:episode>4</itunes:episode>
 			<itunes:season>1</itunes:season>
 		</item>
+		<item>
+			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
+			<guid isPermaLink="true">https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-04.mp3</guid>
+			<title>PDG #04 - 1 + 1 = 4</title>
+			<itunes:subtitle>Papa Dev Geek - Le Quatre Quart</itunes:subtitle>
+			<enclosure url="https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-04.mp3" type="audio/mpeg" length="217220320"/>
+			<pubDate>Sat, 27 Nov 2021 00:30:00 GMT</pubDate>
+			<dcterms:valid>start=2021-11-27T00:30+01:00;</dcterms:valid>
+			<description><![CDATA[
+Episode #4 - 1 + 1 = 4 <br />
+Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp <br />
+				Sommaire :
+				<ul>
+<li>(00:19:34) - La carte aux trésors</li>
+<li>(00:22:36) - De panne et face</li>
+<li>(00:49:58) - Sans regret</li>
+<li>(00:51:52) - Premier Jet/li>
+<li>(01:18:21) - Le mécénat</li>
+<li>(01:25:10) - L'obsolecence programmée</li>
+<li>(02:19:46) - Libérée-Délivrée</li>
+<li>(02:30:32) - Les passes-temps</li>
+<li>(02:52:06) - Tips and Kids : Pandacraft</li>
+<li>(02:55:42) - Conclusion</li>
+</ul>
+Playlist :
+<ul>
+				<li>A-M Horrorscope - LeYan Tomapam Feat Cyph4</li>
+				<li>Jeune et Con - ATYCE</li>
+				<li>The Luck You Got - The High Strung</li>
+				<li>Assis soient-ils - Aldebert et Peter Garrett</li>
+				<li>Un papa, une maman - Le soldat rose</li>
+				<li>Pirates Of The Caribbean - 2CELLOS</li>
+</ul>
+			]]></description>
+			<itunes:duration>02:55:42</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:keywords>Geek, Papa, Parenting, Jeux video, Développement</itunes:keywords>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>5</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
 	</channel>
 </rss>
