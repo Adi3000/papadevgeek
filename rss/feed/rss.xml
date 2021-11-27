@@ -12,8 +12,8 @@
 		<link>https://papadevgeek.fr</link>
 		<atom:link href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/rss.xml" rel="self" type="application/rss+xml" />
 		<copyright>&#169; 2021 PDG - Papa Dev Geek</copyright>
-		<description>Podcast de Papa Dev Geek - Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp - Plus de liens pour nous écouter : https://fafnir.adi3000.com/r/papadevgeek</description>
-		<itunes:summary>Podcast de Papa Dev Geek - Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp - Plus de liens pour nous écouter : https://fafnir.adi3000.com/r/papadevgeek</itunes:summary>
+		<description>Podcast de Papa Dev Geek - Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp - Plus de liens pour nous écouter : https://papadevgeek.fr </description>
+		<itunes:summary>Podcast de Papa Dev Geek - Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp - Plus de liens pour nous écouter : https://papadevgeek.fr </itunes:summary>
 		<language>fr</language>
 		<itunes:owner>
 			<itunes:name>PDG</itunes:name>
