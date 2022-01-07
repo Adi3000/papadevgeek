@@ -279,5 +279,57 @@ Playlist :
 			<itunes:episode>5</itunes:episode>
 			<itunes:season>1</itunes:season>
 		</item>
+		<item>
+			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
+			<guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-05.mp3</guid>
+			<title>PDG #05 - Doigts de la main</title>
+			<itunes:subtitle>Papa Dev Geek - Le Cinquieme Element</itunes:subtitle>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-05.mp3" type="audio/mpeg" length="593231200"/>
+			<pubDate>Sat, 08 Jan 2022 00:30:00 GMT</pubDate>
+			<dcterms:valid>start=2022-01-08T00:30+01:00;</dcterms:valid>
+			<description><![CDATA[
+Episode #5 - Doigts de la main <br />
+Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp <br />
+Plus du podcast ici https://papadevgeek.fr <br />
+
+				Sommaire :
+				<ul>
+<li>(00:00:00) - Introduction</li>
+<li>(00:01:59) - Les aventures à vélos</li>
+<li>(00:12:10) - Pile ou face à deux roues</li>
+<li>(00:15:49) - Les aventures d'automne</li>
+<li>(00:38:18) - Le sponso PapaCube et Tchinis</li>
+<li>(00:38:18) - Le coup des pressions</li>
+<li>(01:03:53) - L'echo qu'on connait trop bien</li>
+<li>(01:09:22) - Libérée, délivréé suite : la sortie</li>
+<li>(01:39:36) - Les initiales</li>
+<li>(01:42:04) - Dev et geekeries</li>
+<li>(02:39:58) - La force du mariage</li>
+<li>(02:50:38) - La mode à petit prix</li>
+<li>(03:45:08) - Nos surdouées</li>
+<li>(03:47:25) - Tips and Kidz : Trials</li>
+<li>(04:00:18) - Conclusion</li>
+<li>(04:06:41) - Bonus</li>
+</ul>
+Playlist :
+<ul>
+    				<li>Hey Boy - Teddybears Sthlm</li>
+    				<li>Bicycle Race - The Royal Philharmonic Orchestra</li>
+				<li>Disney Mashup integrale - French Fuse</li>
+				<li>The Toilet Song - The Wiggles</li>
+				<li>Mom - Meghan Trainor ft Kelli Trainor</li>
+				<li>My patch - Jim Noir</li>
+				<li>Red Red Wine - Tony Tribe</li>
+				<li>Cobrastyle - Teddybears Sthlm ft. Mad Cobra</li>
+</ul>
+			]]></description>
+			<itunes:duration>04:07:10</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo-05.png" />
+			<itunes:keywords>Geek, Papa, Parenting, Jeux video, Développement</itunes:keywords>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>6</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
 	</channel>
 </rss>
