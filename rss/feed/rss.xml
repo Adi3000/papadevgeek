@@ -93,7 +93,7 @@ Playlist
 			]]></description>
 			<itunes:duration>02:19:59</itunes:duration>
 			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo-00.png" />
 			<itunes:keywords>Bricolage, Papa, VR, Jeux video, développement, Java, Guidewire</itunes:keywords>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>1</itunes:episode>
@@ -137,7 +137,7 @@ Playlist :
 			]]></description>
 			<itunes:duration>01:42:46</itunes:duration>
 			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo-01.png" />
 			<itunes:keywords>Geek, Papa, Sandbox, Jeux video, développement</itunes:keywords>
 			<itunes:episodeType>bonus</itunes:episodeType>
 			<itunes:episode>2</itunes:episode>
@@ -183,7 +183,7 @@ Playlist :
 			]]></description>
 			<itunes:duration>02:47:14</itunes:duration>
 			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo-02.png" />
 			<itunes:keywords>Geek, Papa, Parenting, Jeux videos, développement</itunes:keywords>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>3</itunes:episode>
@@ -228,7 +228,7 @@ Playlist :
 			]]></description>
 			<itunes:duration>02:56:26</itunes:duration>
 			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo-03.png" />
 			<itunes:keywords>Geek, Papa, Parenting, Jeux video, Développement</itunes:keywords>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>4</itunes:episode>
