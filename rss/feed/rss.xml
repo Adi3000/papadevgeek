@@ -331,5 +331,46 @@ Playlist :
 			<itunes:episode>6</itunes:episode>
 			<itunes:season>1</itunes:season>
 		</item>
+		<item>
+			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
+			<guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-06.mp3</guid>
+			<title>PDG #06 - Six c'est comme ça</title>
+			<itunes:subtitle>Papa Dev Geek - Le retour avant la renaissance</itunes:subtitle>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-05.mp3" type="audio/mpeg" length="593231200"/>
+			<pubDate>Sat, 23 May 2024 00:30:00 GMT</pubDate>
+			<dcterms:valid>start=2022-07-02T00:30+01:00;</dcterms:valid>
+			<description><![CDATA[
+Episode #6 - Six c'est comme ça <br />
+Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp <br />
+Plus du podcast ici https://papadevgeek.fr/pdg-05-doigts-de-la-main-2 <br />
+
+				Sommaire :
+				<ul>
+<li>(00:00:00) - Introduction</li>
+<li>(00:02:04) - La chasse aux parcs</li>
+<li>(00:22:02) - Chaussure a mon pied</li>
+<li>(01:01:37) - DevSecOpsGreen</li>
+<li>(01:30:21) - Mise a jour de la base virale</li>
+<li>(02:11:43) - Tips an kidz</li>
+<li>(02:18:02) - Conclusion</li>
+</ul>
+Playlist :
+<ul>
+    				<li>Crystal Fighters - Another Level</li>
+    				<li>Kinmokuseino Yoru - Kinokoteikoku</li>
+				<li>Sweet Emotion - The Kooks</li>
+				<li>Madre Tierra Oye - Chayanne</li>
+				<li>Guitar Hero - Aldebert (feat. -M-)</li>
+				<li>Don't look back - ASM</li>
+</ul>
+			]]></description>
+			<itunes:duration>02:19:40</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo-06.png" />
+			<itunes:keywords>Geek, Papa, Parenting, Jeux video, Développement</itunes:keywords>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>7</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
 	</channel>
 </rss>
