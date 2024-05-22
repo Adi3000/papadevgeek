@@ -334,13 +334,13 @@ Playlist :
 		<item>
 			<itunes:author>Maaxow &amp; Adi3000</itunes:author>
 			<guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-06.mp3</guid>
-			<title>PDG #06 - Six c'est comme ça</title>
+			<title>PDG #06 - Six zoo</title>
 			<itunes:subtitle>Papa Dev Geek - Le retour avant la renaissance</itunes:subtitle>
 			<enclosure url="https://dts.podtrac.com/redirect.mp3/https://fafnir.adi3000.com/public/podcast/pdg/releases/PDG-06.mp3" type="audio/mpeg" length="327372000"/>
 			<pubDate>Sat, 23 May 2024 00:30:00 GMT</pubDate>
 			<dcterms:valid>start=2022-07-02T00:30+01:00;</dcterms:valid>
 			<description><![CDATA[
-Episode #6 - Six c'est comme ça <br />
+Episode #6 - Six zoo <br />
 Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp <br />
 Plus du podcast ici https://papadevgeek.fr/pdg-06-six-cest-comme-ca <br />
 
@@ -366,7 +366,7 @@ Playlist :
 			]]></description>
 			<itunes:duration>02:19:40</itunes:duration>
 			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo-06.png" />
 			<itunes:keywords>Geek, Papa, Parenting, Jeux video, Développement</itunes:keywords>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>7</itunes:episode>
