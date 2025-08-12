@@ -10,7 +10,7 @@
 		<title>PDG</title>
 		<itunes:subtitle>Produced by Maaxow &amp; Adi3000</itunes:subtitle>
 		<link>https://fafnir.adi3000.com/r/papadevgeek</link>
-		<atom:link href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/google-rss.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://podcast.papadevgeek.fr/feed/google-rss.xml" rel="self" type="application/rss+xml" />
 		<copyright>&#169; 2021 PDG - Papa Dev Geek</copyright>
 		<description>Podcast de Papa Dev Geek - Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp - Plus de liens pour nous écouter : https://fafnir.adi3000.com/r/papadevgeek</description>
 		<itunes:summary>Podcast de Papa Dev Geek - Rejoignez nous sur Discord https://discord.gg/YCPr8pkvMp - Plus de liens pour nous écouter : https://fafnir.adi3000.com/r/papadevgeek</itunes:summary>
@@ -23,9 +23,9 @@
 		<image>
 			<link>https://fafnir.adi3000.com/r/papadevgeek</link>
 			<title>PDG</title>
-			<url>https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png</url>
+			<url>https://podcast.papadevgeek.fr/feed/logo.png</url>
 		</image>
-		<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png"/>
+		<itunes:image href="https://podcast.papadevgeek.fr/feed/logo.png"/>
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:category text="Leisure">
 			<itunes:category text="Games" />
@@ -91,7 +91,7 @@ Playlist
 			]]></description>
 			<itunes:duration>02:19:59</itunes:duration>
 			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:image href="https://podcast.papadevgeek.fr/feed/logo.png" />
 			<itunes:keywords>Bricolage, Papa, VR, Jeux video, développement, Java, Guidewire</itunes:keywords>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>1</itunes:episode>
@@ -135,7 +135,7 @@ Playlist :
 			]]></description>
 			<itunes:duration>01:42:46</itunes:duration>
 			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:image href="https://podcast.papadevgeek.fr/feed/logo.png" />
 			<itunes:keywords>Geek, Papa, Sandbox, Jeux video, développement</itunes:keywords>
 			<itunes:episodeType>bonus</itunes:episodeType>
 			<itunes:episode>2</itunes:episode>
@@ -179,7 +179,7 @@ Playlist :
 			]]></description>
 			<itunes:duration>02:47:14</itunes:duration>
 			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:image href="https://podcast.papadevgeek.fr/feed/logo.png" />
 			<itunes:keywords>Geek, Papa, Parenting, Jeux videos, développement</itunes:keywords>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>3</itunes:episode>
@@ -222,7 +222,7 @@ Playlist :
 			]]></description>
 			<itunes:duration>02:56:26</itunes:duration>
 			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://fafnir.adi3000.com/public/podcast/pdg/rss/feed/logo.png" />
+			<itunes:image href="https://podcast.papadevgeek.fr/feed/logo.png" />
 			<itunes:keywords>Geek, Papa, Parenting, Jeux video, Développement</itunes:keywords>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>4</itunes:episode>
